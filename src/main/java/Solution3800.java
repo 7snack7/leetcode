@@ -1,4 +1,4 @@
-public class SolutionMinimumCost {
+public class Solution3800 {
     public static void main(String[] args) {
         System.out.println("-------------------------------");
         System.out.println(minimumCost("01000", "10111", 10, 2, 2)); //16

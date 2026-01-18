@@ -1,4 +1,4 @@
-public class SolutionLargestEven {
+public class Solution3798 {
     public static void main(String[] args) {
         System.out.println("-------------------------------");
         System.out.println(largestEven("1112")); //1112

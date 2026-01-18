@@ -1,4 +1,4 @@
-public class SolutionMinMergeCost {
+public class Solution3801 {
     public static void main(String[] args) {
         int[][] arr1 = {{1,3,5},{2,4},{6,7,8}};
         System.out.println("{{1,3,5},{2,4},{6,7,8}}");

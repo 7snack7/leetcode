@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class SolutionWordSquares {
+class Solution3799 {
     public static void main(String[] args) {
         String[] arr = new String[]{"able","area","echo","also"};
         System.out.println("-------------------------------");
